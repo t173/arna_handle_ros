@@ -1,0 +1,8 @@
+prefix=/home/ngs/arna.tmpws/devel
+
+Name: arna_handle
+Description: Description of arna_handle
+Version: 0.0.0
+Cflags: -I/home/ngs/arna.tmpws/devel/include -I/home/ngs/arna.tmpws/src/arna_handle/include
+Libs: -L${prefix}/lib -larna_handle
+Requires: roscpp rospy std_msgs

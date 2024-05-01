@@ -1,0 +1,2 @@
+arna_handle
+-DCATKIN_DEVEL_PREFIX=/home/ngs/arna.tmpws/devel -DCMAKE_INSTALL_PREFIX=/home/ngs/arna.tmpws/install -G Unix Makefiles
